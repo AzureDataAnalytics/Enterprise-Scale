@@ -5,4 +5,4 @@
         "storageAccountType":{
                       "value": "Standard_LRS",
                   },
-}}
+    }}
